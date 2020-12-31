@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "siren_head:items/hunter_sword"
+  }
+}
