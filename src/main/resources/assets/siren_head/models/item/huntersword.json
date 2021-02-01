@@ -1,7 +1,0 @@
-{
-  "parent": "siren_head:custom/hunter_sword",
-  "textures": {
-    "0": "siren_head:blocks/hunter_sword",
-    "particle": "siren_head:items/hunter_sword"
-  }
-}
