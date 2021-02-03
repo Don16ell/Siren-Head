@@ -1,0 +1,47 @@
+{
+  "siren_head_sound": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "siren_head_mod:say1",
+        "stream": false
+      }
+    ]
+  },
+  "cartoon_cat": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "siren_head_mod:cartoon-cat-official-song-128-kb",
+        "stream": false
+      }
+    ]
+  },
+  "cartoon_dog_sound": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "siren_head_mod:idle1",
+        "stream": false
+      }
+    ]
+  },
+  "m4a1_sound_for_assault_rifle": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "siren_head_mod:m4a1_single-kibblesbob-8540445",
+        "stream": false
+      }
+    ]
+  },
+  "sniper_rifle_shoot": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "siren_head_mod:50_sniper_shot-liam-2028603980",
+        "stream": false
+      }
+    ]
+  }
+}

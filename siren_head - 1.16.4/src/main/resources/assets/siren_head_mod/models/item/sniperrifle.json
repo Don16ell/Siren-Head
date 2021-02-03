@@ -1,0 +1,7 @@
+{
+  "parent": "siren_head_mod:custom/sniper_rifle",
+  "textures": {
+    "0": "siren_head_mod:blocks/sniper_rifle",
+    "particle": "siren_head_mod:items/sniper_rifle"
+  }
+}

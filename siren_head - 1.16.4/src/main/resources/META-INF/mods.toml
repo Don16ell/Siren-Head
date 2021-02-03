@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="siren_head_mod"
+version="2.0.0.5"
+displayName="Siren Head mod"
+credits="I couldn't have made this mod without MCreator - https://mcreator.net/about"
+displayURL="https://curseforge.com/minecraft/mc-mods/siren-head-boss-mob"
+logoFile="logo.png"
+authors="Jed, MCreator"
+description='''
+This mod is for 1.16.4. Enjoy!!!!
+'''
+
+[[dependencies.siren_head_mod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
