@@ -1,0 +1,7 @@
+{
+  "parent": "siren_head:custom/sniper_rifle_bullet",
+  "textures": {
+    "0": "siren_head:blocks/sniper_rifle_bullet",
+    "missing": "siren_head:blocks/sniper_rifle_bullet"
+  }
+}

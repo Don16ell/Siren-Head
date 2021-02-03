@@ -1,0 +1,6 @@
+{
+  "parent": "siren_head:custom/bullet",
+  "textures": {
+    "0": "siren_head:blocks/assault_rifle_bullet"
+  }
+}

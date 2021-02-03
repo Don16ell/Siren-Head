@@ -1,0 +1,7 @@
+{
+  "parent": "siren_head:custom/hunter_bow",
+  "textures": {
+    "0": "siren_head:blocks/hunter_bow_texture",
+    "missing": "siren_head:blocks/hunter_bow_texture"
+  }
+}

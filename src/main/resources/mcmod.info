@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "siren_head",
+    "name": "Siren head mod",
+    "description": "This is my siren head mod. Hope you like",
+    "version": "0.5.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "logoFile": "assets/siren_head/textures/siren_head.png",
+    "mcversion": "1.12.2",
+    "url": "https://mcreator.net",
+    "updateUrl": "",
+    "authorList": [
+      "Jed, MCreator"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]
